@@ -47,6 +47,9 @@ I love building responsive and dynamic web applications using modern technologie
 &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohunsall@gmail.com)
 
+### Check Out My Projects Demo On YouTube:
+#### 🔍 Link : https://www.youtube.com/playlist?list=PL-Hw8pLoQMmrza4uNi3H1nbmSn9qylN4t
+
 ### Check Out My Projects:
 🔍 Take a look at my repositories below to see what I've been working on lately.
 
