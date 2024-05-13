@@ -28,6 +28,8 @@ Welcome to my GitHub profile! I'm Sohun, a passionate developer with experience 
 &nbsp;
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://github.com/sohunz)
 &nbsp;
+[![axios](https://img.shields.io/badge/axios.js-854195?style=for-the-badge&logo=axios&logoColor=5A29E4)](https://github.com/sohunz)
+&nbsp;
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/sohunz)
 &nbsp;
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/sohunz)
