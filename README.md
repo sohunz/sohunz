@@ -15,9 +15,7 @@ Welcome to my GitHub profile! I'm Sohun, a passionate developer with experience 
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/sohunz)
 
 ## Frameworks
-[![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/sohunz)
-&nbsp;
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://github.com/sohunz)
+[![React.js](https://img.shields.io/badge/React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/sohunz)
 &nbsp;
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/sohunz)
 &nbsp;
@@ -25,6 +23,8 @@ Welcome to my GitHub profile! I'm Sohun, a passionate developer with experience 
 
 ## Other Tools & Libraries:
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/sohunz)
+&nbsp;
+[![npm](https://img.shields.io/badge/React_Query-CB3837?style=for-the-badge&logo=reactquery&logoColor=white)](https://github.com/sohunz)
 &nbsp;
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://github.com/sohunz)
 &nbsp;
@@ -35,6 +35,8 @@ Welcome to my GitHub profile! I'm Sohun, a passionate developer with experience 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/sohunz)
 &nbsp;
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://github.com/sohunz)
+&nbsp;
+
 
 ## Version Control & Collaboration:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sohunz)
