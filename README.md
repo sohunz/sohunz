@@ -26,6 +26,8 @@ Welcome to my GitHub profile! I'm Sohun, a passionate developer with experience 
 &nbsp;
 [![npm](https://img.shields.io/badge/React_Query-CB3837?style=for-the-badge&logo=reactquery&logoColor=white)](https://github.com/sohunz)
 &nbsp;
+[![Shadcn](https://img.shields.io/badge/Shadcn/UI-272525?style=for-the-badge&logo=shadcnui&logoColor=white)](https://github.com/sohunz)
+&nbsp;
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://github.com/sohunz)
 &nbsp;
 [![axios](https://img.shields.io/badge/axios.js-854195?style=for-the-badge&logo=axios&logoColor=5A29E4)](https://github.com/sohunz)
@@ -38,8 +40,9 @@ Welcome to my GitHub profile! I'm Sohun, a passionate developer with experience 
 &nbsp;
 
 
+
 ## Version Control & Collaboration:
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sohunz)
+[![GitHub](https://img.shields.io/badge/GitHub-272525?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sohunz)
 &nbsp;
 [![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/sohunz)
 
